@@ -1,0 +1,6 @@
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\Oddevensum\bin\Debug\Oddevensum.exe.config
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\Oddevensum\obj\Debug\Oddevensum.csprojResolveAssemblyReference.cache
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\Oddevensum\bin\Debug\Oddevensum.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\Oddevensum\bin\Debug\Oddevensum.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\Oddevensum\obj\Debug\Oddevensum.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\Oddevensum\obj\Debug\Oddevensum.pdb

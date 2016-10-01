@@ -1,0 +1,5 @@
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\leftrightsum\bin\Debug\leftrightsum.exe.config
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\leftrightsum\bin\Debug\leftrightsum.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\leftrightsum\bin\Debug\leftrightsum.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\leftrightsum\obj\Debug\leftrightsum.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Solution1\leftrightsum\obj\Debug\leftrightsum.pdb
