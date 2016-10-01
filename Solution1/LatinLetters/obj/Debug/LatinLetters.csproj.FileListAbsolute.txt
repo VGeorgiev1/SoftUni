@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\LatinLetters\bin\Debug\LatinLetters.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\LatinLetters\bin\Debug\LatinLetters.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\LatinLetters\bin\Debug\LatinLetters.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\LatinLetters\obj\Debug\LatinLetters.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\LatinLetters\obj\Debug\LatinLetters.pdb

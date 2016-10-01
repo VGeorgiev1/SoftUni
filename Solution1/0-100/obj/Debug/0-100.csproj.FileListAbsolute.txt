@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\0-100\bin\Debug\0-100.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\0-100\bin\Debug\0-100.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\0-100\bin\Debug\0-100.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\0-100\obj\Debug\0-100.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Solution1\0-100\obj\Debug\0-100.pdb
