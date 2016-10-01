@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\1to9WithWords\bin\Debug\1to9WithWords.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\1to9WithWords\bin\Debug\1to9WithWords.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\1to9WithWords\bin\Debug\1to9WithWords.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\1to9WithWords\obj\Debug\1to9WithWords.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\1to9WithWords\obj\Debug\1to9WithWords.pdb

@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\InClass\bin\Debug\InClass.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\InClass\bin\Debug\InClass.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\InClass\bin\Debug\InClass.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\InClass\obj\Debug\InClass.csprojResolveAssemblyReference.cache
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\InClass\obj\Debug\InClass.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\InClass\obj\Debug\InClass.pdb

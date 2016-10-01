@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\BonusPoints\bin\Debug\BonusPoints.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\BonusPoints\bin\Debug\BonusPoints.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\BonusPoints\bin\Debug\BonusPoints.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\BonusPoints\obj\Debug\BonusPoints.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\BonusPoints\obj\Debug\BonusPoints.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\BonusPoints\obj\Debug\BonusPoints.csprojResolveAssemblyReference.cache

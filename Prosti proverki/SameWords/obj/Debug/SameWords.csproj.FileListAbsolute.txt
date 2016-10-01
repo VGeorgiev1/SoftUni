@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\SameWords\bin\Debug\SameWords.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\SameWords\bin\Debug\SameWords.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\SameWords\bin\Debug\SameWords.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\SameWords\obj\Debug\SameWords.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\SameWords\obj\Debug\SameWords.pdb

@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\biggerone\bin\Debug\biggerone.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\biggerone\bin\Debug\biggerone.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\biggerone\bin\Debug\biggerone.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\biggerone\obj\Debug\biggerone.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\biggerone\obj\Debug\biggerone.pdb

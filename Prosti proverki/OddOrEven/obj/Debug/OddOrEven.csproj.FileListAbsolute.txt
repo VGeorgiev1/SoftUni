@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\OddOrEven\bin\Debug\OddOrEven.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\OddOrEven\bin\Debug\OddOrEven.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\OddOrEven\bin\Debug\OddOrEven.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\OddOrEven\obj\Debug\OddOrEven.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\OddOrEven\obj\Debug\OddOrEven.pdb

@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\100to200\bin\Debug\100to200.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\100to200\bin\Debug\100to200.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\100to200\bin\Debug\100to200.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\100to200\obj\Debug\100to200.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Prosti proverki\100to200\obj\Debug\100to200.pdb
