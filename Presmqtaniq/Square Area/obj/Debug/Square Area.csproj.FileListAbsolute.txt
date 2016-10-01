@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Square Area\bin\Debug\Square Area.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Square Area\obj\Debug\Square Area.csprojResolveAssemblyReference.cache
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Square Area\bin\Debug\Square Area.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Square Area\bin\Debug\Square Area.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Square Area\obj\Debug\Square Area.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Square Area\obj\Debug\Square Area.pdb

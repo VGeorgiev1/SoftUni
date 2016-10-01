@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\RadToDegrees\bin\Debug\RadToDegrees.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\RadToDegrees\bin\Debug\RadToDegrees.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\RadToDegrees\bin\Debug\RadToDegrees.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\RadToDegrees\obj\Debug\RadToDegrees.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\RadToDegrees\obj\Debug\RadToDegrees.pdb

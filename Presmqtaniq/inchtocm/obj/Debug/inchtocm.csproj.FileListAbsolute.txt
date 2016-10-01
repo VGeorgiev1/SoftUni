@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\inchtocm\bin\Debug\inchtocm.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\inchtocm\bin\Debug\inchtocm.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\inchtocm\bin\Debug\inchtocm.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\inchtocm\obj\Debug\inchtocm.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\inchtocm\obj\Debug\inchtocm.pdb

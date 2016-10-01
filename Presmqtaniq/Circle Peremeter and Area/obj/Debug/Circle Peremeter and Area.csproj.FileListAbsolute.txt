@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Circle Peremeter and Area\bin\Debug\Circle Peremeter and Area.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Circle Peremeter and Area\bin\Debug\Circle Peremeter and Area.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Circle Peremeter and Area\bin\Debug\Circle Peremeter and Area.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Circle Peremeter and Area\obj\Debug\Circle Peremeter and Area.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Circle Peremeter and Area\obj\Debug\Circle Peremeter and Area.pdb

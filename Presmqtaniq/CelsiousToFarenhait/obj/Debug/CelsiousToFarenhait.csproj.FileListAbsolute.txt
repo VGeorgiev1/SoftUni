@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\CelsiousToFarenhait\bin\Debug\CelsiousToFarenhait.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\CelsiousToFarenhait\bin\Debug\CelsiousToFarenhait.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\CelsiousToFarenhait\bin\Debug\CelsiousToFarenhait.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\CelsiousToFarenhait\obj\Debug\CelsiousToFarenhait.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\CelsiousToFarenhait\obj\Debug\CelsiousToFarenhait.pdb

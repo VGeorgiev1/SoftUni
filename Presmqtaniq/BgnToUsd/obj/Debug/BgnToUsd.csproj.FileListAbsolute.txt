@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\BgnToUsd\bin\Debug\BgnToUsd.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\BgnToUsd\bin\Debug\BgnToUsd.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\BgnToUsd\bin\Debug\BgnToUsd.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\BgnToUsd\obj\Debug\BgnToUsd.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\BgnToUsd\obj\Debug\BgnToUsd.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Presmqtaniq\BgnToUsd\obj\Debug\BgnToUsd.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\ConceteData\bin\Debug\ConceteData.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\ConceteData\bin\Debug\ConceteData.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\ConceteData\bin\Debug\ConceteData.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\ConceteData\obj\Debug\ConceteData.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\ConceteData\obj\Debug\ConceteData.pdb

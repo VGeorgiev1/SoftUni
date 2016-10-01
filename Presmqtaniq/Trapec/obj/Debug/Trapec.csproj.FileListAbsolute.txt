@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Trapec\bin\Debug\Trapec.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Trapec\bin\Debug\Trapec.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Trapec\bin\Debug\Trapec.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Trapec\obj\Debug\Trapec.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Trapec\obj\Debug\Trapec.pdb

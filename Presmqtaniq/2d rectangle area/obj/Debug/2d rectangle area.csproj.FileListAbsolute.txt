@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\2d rectangle area\bin\Debug\2d rectangle area.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\2d rectangle area\bin\Debug\2d rectangle area.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\2d rectangle area\bin\Debug\2d rectangle area.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\2d rectangle area\obj\Debug\2d rectangle area.csprojResolveAssemblyReference.cache
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\2d rectangle area\obj\Debug\2d rectangle area.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\2d rectangle area\obj\Debug\2d rectangle area.pdb

@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Greeting\bin\Debug\Greeting.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Greeting\bin\Debug\Greeting.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Greeting\bin\Debug\Greeting.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Greeting\obj\Debug\Greeting.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Presmqtaniq\Greeting\obj\Debug\Greeting.pdb

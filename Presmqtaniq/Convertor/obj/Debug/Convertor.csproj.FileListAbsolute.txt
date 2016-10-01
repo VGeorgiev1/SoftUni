@@ -1,0 +1,6 @@
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Presmqtaniq\Convertor\bin\Debug\Convertor.exe.config
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Presmqtaniq\Convertor\bin\Debug\Convertor.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Presmqtaniq\Convertor\bin\Debug\Convertor.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Presmqtaniq\Convertor\obj\Debug\Convertor.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Presmqtaniq\Convertor\obj\Debug\Convertor.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Presmqtaniq\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
