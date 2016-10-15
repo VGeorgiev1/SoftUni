@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\AdvncedLoops\1do100prez3\bin\Debug\1do100prez3.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\AdvncedLoops\1do100prez3\bin\Debug\1do100prez3.exe
+c:\users\stasi\documents\visual studio 2015\Projects\AdvncedLoops\1do100prez3\bin\Debug\1do100prez3.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\AdvncedLoops\1do100prez3\obj\Debug\1do100prez3.csprojResolveAssemblyReference.cache
+c:\users\stasi\documents\visual studio 2015\Projects\AdvncedLoops\1do100prez3\obj\Debug\1do100prez3.exe
+c:\users\stasi\documents\visual studio 2015\Projects\AdvncedLoops\1do100prez3\obj\Debug\1do100prez3.pdb
