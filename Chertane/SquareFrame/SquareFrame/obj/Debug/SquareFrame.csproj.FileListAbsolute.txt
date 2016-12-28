@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\SquareFrame\SquareFrame\bin\Debug\SquareFrame.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\SquareFrame\SquareFrame\bin\Debug\SquareFrame.exe
+c:\users\stasi\documents\visual studio 2015\Projects\SquareFrame\SquareFrame\bin\Debug\SquareFrame.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\SquareFrame\SquareFrame\obj\Debug\SquareFrame.exe
+c:\users\stasi\documents\visual studio 2015\Projects\SquareFrame\SquareFrame\obj\Debug\SquareFrame.pdb

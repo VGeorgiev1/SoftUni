@@ -1,0 +1,5 @@
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Romb\bin\Debug\Romb.exe.config
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Romb\bin\Debug\Romb.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Romb\bin\Debug\Romb.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Romb\obj\Debug\Romb.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Romb\obj\Debug\Romb.pdb

@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\NxNRectangle\bin\Debug\NxNRectangle.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\NxNRectangle\bin\Debug\NxNRectangle.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\NxNRectangle\bin\Debug\NxNRectangle.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\NxNRectangle\obj\Debug\NxNRectangle.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\NxNRectangle\obj\Debug\NxNRectangle.pdb

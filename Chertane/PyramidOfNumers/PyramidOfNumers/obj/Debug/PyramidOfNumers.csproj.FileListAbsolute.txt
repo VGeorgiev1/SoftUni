@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\PyramidOfNumers\PyramidOfNumers\bin\Debug\PyramidOfNumers.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\PyramidOfNumers\PyramidOfNumers\bin\Debug\PyramidOfNumers.exe
+c:\users\stasi\documents\visual studio 2015\Projects\PyramidOfNumers\PyramidOfNumers\bin\Debug\PyramidOfNumers.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\PyramidOfNumers\PyramidOfNumers\obj\Debug\PyramidOfNumers.csprojResolveAssemblyReference.cache
+c:\users\stasi\documents\visual studio 2015\Projects\PyramidOfNumers\PyramidOfNumers\obj\Debug\PyramidOfNumers.exe
+c:\users\stasi\documents\visual studio 2015\Projects\PyramidOfNumers\PyramidOfNumers\obj\Debug\PyramidOfNumers.pdb

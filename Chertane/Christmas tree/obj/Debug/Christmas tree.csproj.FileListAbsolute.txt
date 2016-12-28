@@ -1,0 +1,6 @@
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Christmas tree\bin\Debug\Christmas tree.exe.config
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Christmas tree\obj\Debug\Christmas tree.csprojResolveAssemblyReference.cache
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Christmas tree\bin\Debug\Christmas tree.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Christmas tree\bin\Debug\Christmas tree.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Christmas tree\obj\Debug\Christmas tree.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\Chertane\Christmas tree\obj\Debug\Christmas tree.pdb

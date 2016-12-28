@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\TriangleFor$\bin\Debug\TriangleFor$.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\TriangleFor$\bin\Debug\TriangleFor$.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\TriangleFor$\bin\Debug\TriangleFor$.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\TriangleFor$\obj\Debug\TriangleFor$.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Chertane\TriangleFor$\obj\Debug\TriangleFor$.pdb
