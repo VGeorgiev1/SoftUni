@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Squeres\Squeres\bin\Debug\Squeres.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Squeres\Squeres\bin\Debug\Squeres.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Squeres\Squeres\bin\Debug\Squeres.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Squeres\Squeres\obj\Debug\Squeres.csprojResolveAssemblyReference.cache
+c:\users\stasi\documents\visual studio 2015\Projects\Squeres\Squeres\obj\Debug\Squeres.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Squeres\Squeres\obj\Debug\Squeres.pdb

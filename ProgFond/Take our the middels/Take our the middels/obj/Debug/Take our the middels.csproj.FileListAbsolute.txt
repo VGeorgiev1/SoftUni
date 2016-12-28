@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\Take our the middels\Take our the middels\bin\Debug\Take our the middels.exe.config
+c:\users\stasi\documents\visual studio 2015\Projects\Take our the middels\Take our the middels\bin\Debug\Take our the middels.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Take our the middels\Take our the middels\bin\Debug\Take our the middels.pdb
+c:\users\stasi\documents\visual studio 2015\Projects\Take our the middels\Take our the middels\obj\Debug\Take our the middels.exe
+c:\users\stasi\documents\visual studio 2015\Projects\Take our the middels\Take our the middels\obj\Debug\Take our the middels.pdb

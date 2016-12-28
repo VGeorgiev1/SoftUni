@@ -1,0 +1,5 @@
+c:\users\stasi\documents\visual studio 2015\Projects\SumArrays\SumArrays\bin\Debug\SumArrays.exe.config
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\SumArrays\SumArrays\bin\Debug\SumArrays.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\SumArrays\SumArrays\bin\Debug\SumArrays.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\SumArrays\SumArrays\obj\Debug\SumArrays.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\SumArrays\SumArrays\obj\Debug\SumArrays.pdb

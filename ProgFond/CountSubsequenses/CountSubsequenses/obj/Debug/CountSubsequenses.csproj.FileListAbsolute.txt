@@ -1,0 +1,6 @@
+c:\users\stasi\documents\visual studio 2015\Projects\CountSubsequenses\CountSubsequenses\bin\Debug\CountSubsequenses.exe.config
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\CountSubsequenses\CountSubsequenses\obj\Debug\CountSubsequenses.csprojResolveAssemblyReference.cache
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\CountSubsequenses\CountSubsequenses\bin\Debug\CountSubsequenses.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\CountSubsequenses\CountSubsequenses\bin\Debug\CountSubsequenses.pdb
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\CountSubsequenses\CountSubsequenses\obj\Debug\CountSubsequenses.exe
+C:\Users\Stasi\Documents\Visual Studio 2015\Projects\CountSubsequenses\CountSubsequenses\obj\Debug\CountSubsequenses.pdb
