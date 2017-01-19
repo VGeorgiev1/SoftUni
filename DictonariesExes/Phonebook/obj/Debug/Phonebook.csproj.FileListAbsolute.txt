@@ -1,0 +1,6 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebook\bin\Debug\Phonebook.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebook\bin\Debug\Phonebook.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebook\bin\Debug\Phonebook.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebook\obj\Debug\Phonebook.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebook\obj\Debug\Phonebook.pdb

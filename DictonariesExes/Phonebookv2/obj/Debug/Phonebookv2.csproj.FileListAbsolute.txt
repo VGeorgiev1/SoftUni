@@ -1,0 +1,5 @@
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebookv2\bin\Debug\Phonebookv2.exe.config
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebookv2\bin\Debug\Phonebookv2.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebookv2\bin\Debug\Phonebookv2.pdb
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebookv2\obj\Debug\Phonebookv2.exe
+c:\users\vanko\documents\visual studio 2015\Projects\DictonariesExes\Phonebookv2\obj\Debug\Phonebookv2.pdb
